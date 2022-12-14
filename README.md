@@ -47,7 +47,7 @@ Utilizaremos flexbox: `display: flex... align-items, justify-content, etc...`
 
 <h1><br>
 <p align="center">
-🚀 Comando báicos marotos do Github para te lembrar
+🚀 Comando básicos marotos do Github para te lembrar
 </p>
 </h1>
 
@@ -71,6 +71,11 @@ O resultado que espero de você.<br>
 <img src="img_resultados/resultado01.png" width="320" alt="propriedades" />
 
 ## Exercício 2 - alinhe o elemento/imagem na tela
+Seu desafio aqui é alinhar a imagem que esta na pasta `img_ex2` na tela da aplicação na parte inferior da página mas do lado direito. `se desafie e aplique outros posicionamentos para entender melhor e solidificar o seu aprendizado`<br><br>
+O resultado que espero de você.<br>
+<img src="img_resultados/resultado02.png" width="320" alt="propriedades" />
+
+## Exercício 3 - alinhe 2 elementos/imagens na tela
 Seu desafio aqui é alinhar a imagem que esta na pasta `img_ex2` na tela da aplicação na parte inferior da página mas do lado direito. `se desafie e aplique outros posicionamentos para entender melhor e solidificar o seu aprendizado`<br><br>
 O resultado que espero de você.<br>
 <img src="img_resultados/resultado02.png" width="320" alt="propriedades" />
