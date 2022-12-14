@@ -69,3 +69,8 @@ git push
 Seu desafio aqui é centralizar a imagem que esta na pasta `img_ex1` na tela da aplicação.<br><br>
 O resultado que espero de você.<br>
 <img src="img_resultados/resultado.png" width="320" alt="propriedades" />
+
+## Exercício 2 - alinhe o elemento/imagem na tela
+Seu desafio aqui é alinhar a imagem que esta na pasta `img_ex2` na tela da aplicação na parte inferior da página mas do lado direito.<br><br>
+O resultado que espero de você.<br>
+<img src="img_resultados/resultado.png" width="320" alt="propriedades" />
