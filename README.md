@@ -75,7 +75,7 @@ Seu desafio aqui é alinhar a imagem que esta na pasta `img_ex2` na tela da apli
 O resultado que espero de você.<br>
 <img src="img_resultados/resultado02.png" width="320" alt="propriedades" />
 
-## Exercício 3 - alinhe 2 elementos/imagens na tela
-Seu desafio aqui é alinhar a imagem que esta na pasta `img_ex2` na tela da aplicação na parte inferior da página mas do lado direito. `se desafie e aplique outros posicionamentos para entender melhor e solidificar o seu aprendizado`<br><br>
+## Exercício 3 - alinhe 3 elementos/imagens na tela
+Seu desafio aqui é alinhar 3 imagens que estão na pasta `img_ex3` na tela da aplicação ao centro.<br><br>
 O resultado que espero de você.<br>
-<img src="img_resultados/resultado02.png" width="320" alt="propriedades" />
+<img src="img_resultados/resultado03.png" width="320" alt="propriedades" />
